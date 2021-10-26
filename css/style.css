@@ -355,12 +355,12 @@ body {
 }
 
 .sale {
-  margin: -50px 0px 70px 0px;
+  margin: -50px 0px 200px 0px;
 }
 
 @media screen and (max-width: 1280px) {
   .sale {
-    margin-bottom: 70px;
+    margin-bottom: 190px;
   }
 }
 
@@ -912,7 +912,7 @@ body {
 
 @media screen and (max-width: 1024px) {
   .faq {
-    margin-top: 70px;
+    margin: 50px 0px 70px 0px;
   }
 }
 
